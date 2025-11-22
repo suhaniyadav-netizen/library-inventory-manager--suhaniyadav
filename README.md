@@ -5,7 +5,8 @@
 
 A simple command-line application to manage a campus library's book data. Built with Python using Object-Oriented Programming principles.
 
-<img width="482" height="236" alt="image" src="https://github.com/user-attachments/assets/acbcf528-e85c-4052-a315-bc171098cbc9" />
+<img width="482" height="236" alt="Screenshot 2025-11-22 182148" src="https://github.com/user-attachments/assets/6bd8eb75-81ff-4ee2-aa4b-61be28fb5e3c" />
+
 
 
 
